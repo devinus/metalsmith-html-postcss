@@ -1,0 +1,24 @@
+{
+  "name": "metalsmith-html-postcss",
+  "version": "0.1.0",
+  "description": "Metalsmith plugin to process inline CSS in HTML using PostCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinus/metalsmith-html-postcss.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "html",
+    "postcss"
+  ],
+  "author": "Devin Torres <devin@devintorr.es>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/devinus/metalsmith-html-postcss/issues"
+  },
+  "homepage": "https://github.com/devinus/metalsmith-html-postcss#readme"
+}
