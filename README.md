@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/devinus/metalsmith-html-postcss.svg?branch=master)](https://travis-ci.org/devinus/metalsmith-html-postcss)
 
+Run [html-postcss](https://github.com/Rebelmail/html-postcss) on your HTML.
+
 ## Install
 
 ```sh-session
