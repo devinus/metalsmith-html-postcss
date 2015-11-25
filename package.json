@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/devinus/metalsmith-html-postcss#readme",
   "dependencies": {
-    "html-postcss": "^0.1.1",
-    "minimatch": "^2.0.10"
+    "html-postcss": "^0.1.2",
+    "minimatch": "^3.0.0"
   },
   "devDependencies": {
-    "chai": "^3.2.0",
-    "mocha": "^2.3.2",
-    "proxyquire": "^1.7.2"
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "proxyquire": "^1.7.3"
   }
 }
