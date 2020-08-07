@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-html-postcss",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Metalsmith plugin to process inline CSS in HTML using PostCSS",
   "main": "index.js",
   "scripts": {
